@@ -1,2 +1,2 @@
 # Helm Lab
-## This is a helm repository
+## This is a Helm repository
